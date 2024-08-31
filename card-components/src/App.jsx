@@ -1,10 +1,12 @@
+import Card from `./Card.jsx`
 
-import './App.css'
 
 //website is http://localhost:5174/
 
 function App() {
-  
+  return (
+    <Card />
+  );
 }
 
 export default App
