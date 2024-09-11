@@ -1,3 +1,17 @@
-.body {
-  
+.welcome-message {
+    font-size: 2.5em;
+    background-color: hsl(120, 81%, 42%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
+}
+
+.login-prompt {
+    font-size: 2.5em;
+    background-color: hsl(0, 85%, 52%);
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 0;
 }
